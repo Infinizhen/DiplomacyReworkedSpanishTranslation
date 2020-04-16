@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Language>Spanish</Language>
+  <supportsVersion>1.2.3</supportsVersion>
+  <ErrorMessages>
+    <critical_loading_mod>DiplomacyReworked: Sucedió un error critico al tratar de cargar el mod.</critical_loading_mod>
+    <critical_load_diplomacy>DiplomacyReworked: Sucedió un error critico al tratar de añadir KingdomDiplomacy Behaviours</critical_load_diplomacy>
+    <critical_load_Menus>DiplomacyReworked: Sucedió un error critico al tratar de añadir Diplomacy Behaviours</critical_load_Menus>
+    <redistribute_fief_failed>DiplomacyReworked: Sucedió un error al redistribuir el feudo, continuando por defecto.</redistribute_fief_failed>
+    <chosen_fief_not_found>DiplomacyReworked: Error, no se ha encontrado el Feudo seleccionado.</chosen_fief_not_found>
+    <gift_fief_failed>DiplomacyReworked: Sucedió un error al obsequiar un feudo.</gift_fief_failed>
+    <selectedClan_not_found>DiplomacyReworked: Error, no se pudo encontrar el Clan seleccionado.</selectedClan_not_found>
+    <error_setting_relation>DiplomacyReworked: Error, no se pudo reestablecer tu relación.</error_setting_relation>
+    <select_faction_failed>DiplomacyReworked: Error, algo ha ido mal al seleccionar tu facción.</select_faction_failed>
+    <conversation_failed>DiplomacyReworked: Ha ocurrido un error al iniciar la conversación.</conversation_failed>
+    <leader_dead_prison>El líder de esta facción está muerto o ha sido capturado.</leader_dead_prison>
+    <already_war>Ya estás en guerra con esta facción.</already_war>
+  </ErrorMessages>
+  <Standard>
+    <diplomacy_title>Diplomacia</diplomacy_title>
+    <select_kingdom>Selecciona un Reino con el que interactuar.</select_kingdom>
+    <what_to_do>Qué deseas hacer?</what_to_do>
+    <kingdom_diplomacy_title>Diplomacia del Reino</kingdom_diplomacy_title>
+    <select_clan_text>Selecciona un clan con el que interactuar.</select_clan_text>
+    <which_fief_to_gift>Qué Feudo deseas obsequiar?</which_fief_to_gift>
+    <fief_captured_title>Feudo capturado.</fief_captured_title>
+    <fief_keep_pass_text>Deseas mantener el Feudo, o someter el nombramiento a votación?</fief_keep_pass_text>
+    <settlement_name>Nombre del asentamiento:</settlement_name>
+  </Standard>
+  <Buttons>
+    <button_keep>Mantener</button_keep>
+    <button_pass>Pasar</button_pass>
+    <return_options>Volver a opciones.</return_options>
+    <conversation_leader>Conversar con el líder.</conversation_leader>
+    <gift_fief_clan>Obsequiar un Feudo a este Clan.</gift_fief_clan>
+    <return_menu>Volver al Menú.</return_menu>
+    <return_selection>Volver a la selección.</return_selection>
+    <declare_war>Declarar Guerra</declare_war>
+    <return_clans>Volver a Clanes.</return_clans>
+  </Buttons>
+</root>
